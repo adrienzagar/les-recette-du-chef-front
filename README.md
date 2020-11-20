@@ -1,5 +1,4 @@
 # les-recettes-du-chef
-# Le Petit Chef
 
 Recipes website built with React and Redux in front end. Datas are comming from an API built with a node server.
 There are some tests with Chai and Enzyme.
