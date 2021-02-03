@@ -5,7 +5,7 @@ import './styles.scss';
 
 const Title = () => (
   <div className="title">
-    <h1>oRecipe</h1>
+    <h1>Le Petit Chef</h1>
     <LoginForm />
   </div>
 );
